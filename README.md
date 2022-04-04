@@ -8,7 +8,7 @@
 | :---       |    :----:   |          ---: |
 | Ranjita Gaddanakeri      | 01FE19BEE038       | Does not Pick Up Unknown Calls   |
 | Shubham Kumar Gupta  | 01FE19BEE030        | No Network in his Place      |
-| Priyanka Inamati      | 01FE19BEE050       | Can Call any time   |
+| Priyanka Inamati      | 01FE19BEE050       | Can Call any time but she wont Receive |
 | Sheshank Shyam Kindalkar   | 01FE19BEE049        | Phone Always on Mute      |
 
 ## 1. Abstract
