@@ -6,10 +6,10 @@
 ### <center>Project Associates</center>
 | Name      | USN | Contact Info    |
 | :---       |    :----:   |          ---: |
-| Ranjita Gaddanakeri      | 01FE19BEE038       | Here's this   |
-| Shubham Kumar Gupta  | 01FE19BEE030        | And more      |
-| Priyanka Inamati      | 01FE19BEE050       | Here's this   |
-| Sheshank Shyam Kindalkar   | 01FE19BEE049        | And more      |
+| Ranjita Gaddanakeri      | 01FE19BEE038       | Does not Pick Up Unknown Calls   |
+| Shubham Kumar Gupta  | 01FE19BEE030        | No Network in his Place      |
+| Priyanka Inamati      | 01FE19BEE050       | Can Call any time   |
+| Sheshank Shyam Kindalkar   | 01FE19BEE049        | Phone Always on Mute      |
 
 ## 1. Abstract
 
