@@ -73,6 +73,10 @@ However as the number of car increases on-road the conventional cruise control s
 The advanced method of the cruise control system is the Adaptive Cruise Control system (ACC). ACC is the system which not only maintains the speed of the car but also measures the distance between vehicle ahead of it and accordingly it will set the speed and keep the vehicle in one track. It also sends the location of the vehicle if any misfortune occurs, as an enhanced feature of the Black Box System. Fuel economy is improved by an adaptive cruise control system.
 Our project aims to achieve a cost-effective, user-friendly system that fulfills the basic requirement of Adaptive Cruise Control (speed and distance observation and control) and Black Box (Security of the Driver by sending its location as a text message in case of emergencies). 
 
+The Internet of Things (IoT) based approah to design an adapative cruise control system
+
+#### Workflow
+
 
 
 
@@ -84,3 +88,5 @@ Our project aims to achieve a cost-effective, user-friendly system that fulfills
 [2] Kumar, Rohan, and Rajan Pathak. "Adaptive cruise control-towards a safer driving experience." International Journal of Scientific and Engineering Research 3.8 (2012): 3-7.
 
 [3] Pagey, K., R. D. Komati, S. Paliwal & S. Lukde “Adaptive Cruise Control System.” International Journal of Creative Research Thoughts 8.0 (2020):1551.0–1560.0.
+
+[4] "Adaptive cruise control for passenger cars" . Bosch Mobility Solutions, 2022 , www.bosch-mobility-solutions.com/en/solutions/assistance-systems/adaptive-cruise-control/
