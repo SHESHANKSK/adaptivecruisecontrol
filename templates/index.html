@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{%block content%}
+
+<h1>Heading</h1>
+<div>
+    <h2>Set the Following Parameters</h2>
+    <form action="" method="post">
+        <input type="range" id="volume" name="volume" min="0" max="11">
+        <label for="volume">Volume</label>
+
+        <input type="range" id="cowbell" name="cowbell" min="0" max="100" value="90" step="10">
+        <label for="cowbell">Cowbell</label>
+    </form>
+
+</div>
+
+<div>
+    <!-- <h1>Previous Data</h1>
+    <table>
+        <tr>
+            <th>Sl.No</th>
+            <th>Sensor Data</th>
+            <th>Updated Time</th>
+        </tr>
+
+        {% for sensordata in sensordata %}
+        <tr>
+            <td>{{ sensordata.id }}</td>
+            <td>{{ sensordata.sensordata }}</td>
+            <td>{{ sensordata.record_time}}</td>
+        </tr>
+        {% endfor %}
+    </table> -->
+</div>
+{% endblock %}
